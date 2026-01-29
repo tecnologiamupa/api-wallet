@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletGoogle", "WalletGoogle.csproj", "{941D0A38-A593-48F2-B914-099673830030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941D0A38-A593-48F2-B914-099673830030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941D0A38-A593-48F2-B914-099673830030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941D0A38-A593-48F2-B914-099673830030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941D0A38-A593-48F2-B914-099673830030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C17D859-58B9-4BCA-9A90-82CCC2B364E3}
+	EndGlobalSection
+EndGlobal
